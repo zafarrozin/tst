@@ -15,7 +15,7 @@
 <br>
 <p>Goblok banget ya aku, wes ditolak baik baik, wes dikei kode ngo mundur, tetep saja masih berharap. Tapi tenang walaupun kamu cuek, buang muka terus, hati saya tidak akan goyah, aku ra ngerti koe koyo ngono mergo ilfeel opo mung ameh ngetest aku. Nek koe wes ndue doi baru ngomong ae saa, ben aku tidak berharap lebih. Karena pada dasarnya yang buat sakit itu ekspetasi ku sendiri, bukan kamu</p>
 <br><br><br>
-<p>Aku gatau pengen curhat apalagi, intine aku cmn pegen kamu ga pengen yang lain sumpah demi apapun. Meh kamu cuek, mau kamu buang muka, aku ga peduli, aku tetep saying ro koe<3</p>
+<p>Aku gatau pengen curhat apalagi, intine aku cmn pegen kamu ga pengen yang lain sumpah demi apapun. Meh kamu cuek, mau kamu buang muka, aku ga peduli, aku tetep sayang ro koe<3</p>
 <br><br><br>   
 </body>
 </html>
