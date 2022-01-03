@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.sub-title{
+    margin: 50px 0 20px;
+    font-size: 2.2vw;
+    font-weight: 500;
+    color: #333;
+}
+
+.venue{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 30px;
+}
+
+.venue div img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.venue div{
+    position: relative;
+}
+
+.venue div span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+}
+
+.menu{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 30px;
+}
+
+.menu div img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.menu h3{
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.menu div{
+    position: relative;
+}
+
+footer{
+    align-items: center;
+    background: chocolate;
+    color: yellow;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.f-nav{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+}
+
+body{
+    background: yellow;
+}
