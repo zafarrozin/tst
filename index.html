@@ -45,27 +45,27 @@
     <div class="menu">
         <div>
             <img src="images/menu1.jpg">
-            <h3>Udang goreng tepung</h3>
+            <h3>UDANG GORENG TEPUNG</h3>
         </div>
         <div>
             <img src="images/menu2.jpg">
-            <h3>Iga bakar</h3>
+            <h3>IGA BAKAR</h3>
         </div>
         <div>
             <img src="images/menu3.jpg">
-            <h3>Nila bakar</h3>
+            <h3>NILA BAKAR</h3>
         </div>
         <div>
             <img src="images/menu4.jpg">
-            <h3>Sego wiwit ayam kampung goreng</h3>
+            <h3>SEGO WIWIT AYAM KAMPUNG GORENG</h3>
         </div>
         <div>
             <img src="images/menu5.jpg">
-            <h3>Gurame asam manis</h3>
+            <h3>GURAME ASAM MANIS</h3>
         </div>
         <div>
             <img src="images/menu6.jpg">
-            <h3>Paket sego wiwit tampah</h3>
+            <h3>PAKET SEGO WIWIT TAMPAH</h3>
         </div>
     </div>
     <br><br><br><br><br><br>
